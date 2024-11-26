@@ -1,4 +1,4 @@
-public class SelectionSort{
+public class Selection_Sort{
     public static void selectionSort(int array[]){
         int n = array.length;
         for(int i = 0; i < n; i++){
