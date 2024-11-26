@@ -18,7 +18,7 @@ public class SelectionSort{
         int array[] = {64, 25, 12, 22, 11};
         selectionSort(array);
         for(int num : array){
-            System.err.println(" " + num);
+            System.err.print(num + " ");
         }
     }
 
