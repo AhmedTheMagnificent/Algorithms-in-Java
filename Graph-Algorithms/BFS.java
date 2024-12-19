@@ -2,7 +2,7 @@ import java.util.ArrayList;
 import java.util.List;
 import java.util.Set;
 
-public class Graph{
+public class BFS{
     private int vertices;
     private ArrayList<ArrayList<Integer>> adj;
 
